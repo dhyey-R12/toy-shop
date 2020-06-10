@@ -1,0 +1,112 @@
+.order-tracking-wrapper {
+	max-width: 600px;
+	float: left;
+}
+
+.order-tracking,
+.track-line-wrapper {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+.track-line {
+	width: 6px;
+	min-height: 100px;
+	background-color: #ccc;
+	margin-right: 25px;
+	position: relative;
+}
+
+.track-dot {
+	width: 14px;
+	height: 14px;
+	background-color: #ccc;
+	position: absolute;
+	top: 50%;
+	left: -4px;
+	border-radius: 15px;
+	transform: translateY(-50%);
+}
+
+.track-cont {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-height: 100px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	align-items: center;
+}
+
+.track-title {
+	font-weight: bold;
+}
+
+.track-txt {
+	font-style: italic;
+	color: #a9a9a9;
+}
+
+.order-tracking:first-child .track-line {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.order-tracking:last-child .track-line {
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+.greycolor {
+	color: #aaa;
+}
+
+.pd-woo-track-stage-1 .order-tracking:nth-child(1) .track-line,
+.pd-woo-track-stage-1 .order-tracking:nth-child(1) .track-dot {
+	background-color: #0dcc0d;
+}
+
+.pd-woo-track-stage-2 .order-tracking:nth-child(1) .track-line,
+.pd-woo-track-stage-2 .order-tracking:nth-child(1) .track-dot,
+.pd-woo-track-stage-2 .order-tracking:nth-child(2) .track-line,
+.pd-woo-track-stage-2 .order-tracking:nth-child(2) .track-dot {
+	background-color: #0dcc0d;
+}
+
+.pd-woo-track-stage-3 .order-tracking:nth-child(1) .track-line,
+.pd-woo-track-stage-3 .order-tracking:nth-child(1) .track-dot,
+.pd-woo-track-stage-3 .order-tracking:nth-child(2) .track-line,
+.pd-woo-track-stage-3 .order-tracking:nth-child(2) .track-dot,
+.pd-woo-track-stage-3 .order-tracking:nth-child(3) .track-line,
+.pd-woo-track-stage-3 .order-tracking:nth-child(3) .track-dot {
+	background-color: #0dcc0d;
+}
+
+.pd-woo-track-stage-4 .order-tracking:nth-child(1) .track-line,
+.pd-woo-track-stage-4 .order-tracking:nth-child(1) .track-dot,
+.pd-woo-track-stage-4 .order-tracking:nth-child(2) .track-line,
+.pd-woo-track-stage-4 .order-tracking:nth-child(2) .track-dot,
+.pd-woo-track-stage-4 .order-tracking:nth-child(3) .track-line,
+.pd-woo-track-stage-4 .order-tracking:nth-child(3) .track-dot,
+.pd-woo-track-stage-4 .order-tracking:nth-child(4) .track-line,
+.pd-woo-track-stage-4 .order-tracking:nth-child(4) .track-dot {
+	background-color: #0dcc0d;
+}
+
+.pd-woo-track-stage-5 .order-tracking:nth-child(1) .track-line,
+.pd-woo-track-stage-5 .order-tracking:nth-child(1) .track-dot,
+.pd-woo-track-stage-5 .order-tracking:nth-child(2) .track-line,
+.pd-woo-track-stage-5 .order-tracking:nth-child(2) .track-dot,
+.pd-woo-track-stage-5 .order-tracking:nth-child(3) .track-line,
+.pd-woo-track-stage-5 .order-tracking:nth-child(3) .track-dot,
+.pd-woo-track-stage-5 .order-tracking:nth-child(4) .track-line,
+.pd-woo-track-stage-5 .order-tracking:nth-child(4) .track-dot,
+.pd-woo-track-stage-5 .order-tracking:nth-child(5) .track-line,
+.pd-woo-track-stage-5 .order-tracking:nth-child(5) .track-dot {
+	background-color: #0dcc0d;
+}

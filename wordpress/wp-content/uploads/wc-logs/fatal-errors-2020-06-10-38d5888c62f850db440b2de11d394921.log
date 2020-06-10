@@ -1,0 +1,80 @@
+2020-06-10T12:48:54+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 88
+
+2020-06-10T12:55:47+00:00 CRITICAL Cannot redeclare demo() (previously declared in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php:87) in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T12:57:12+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 190
+
+2020-06-10T13:17:17+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:18:15+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:18:16+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:18:17+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:18:18+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:18:22+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:19:17+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:19:19+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:20:15+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:21:17+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:21:30+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:22:49+00:00 CRITICAL Uncaught Error: Call to undefined function add_shortcode_atts() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php:85
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\shortcodes.php(343): demo('', '', 'code')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\toy shop\wordpress\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(code)(...', 'do_shortcode_ta...', '[code]\n')
+#3 C:\xampp\htdocs\toy shop\wordpress\wp-includes\class-wp-hook.php(287): do_shortcode('[code]\n')
+#4 C:\xampp\htdocs\toy shop\wordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters('[code]\n', Array)
+#5 C:\xampp\htdocs\toy shop\wordpress\wp-includes\post-template.php(253): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\inc\views\page_layout.php(29): the_content()
+#7 C:\xampp\htdocs\toy shop\wordpress\wp-includes\class-wp-hook.php(287): Neve\Views\Page_Layout->render_page('')
+#8 C:\xampp\htdocs\toy sh in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 85
+
+2020-06-10T13:23:13+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:23:18+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:31:34+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:31:48+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:32:00+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:32:07+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:32:35+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:33:15+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:33:26+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:33:33+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:34:07+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:34:08+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:34:12+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:34:15+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 87
+
+2020-06-10T13:34:55+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
+2020-06-10T13:35:08+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
+2020-06-10T13:35:15+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
+2020-06-10T14:01:18+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
+2020-06-10T14:02:55+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
+2020-06-10T14:03:00+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\functions.php on line 86
+
