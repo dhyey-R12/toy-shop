@@ -1,0 +1,70 @@
+2020-06-12T06:41:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:13
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 13
+
+2020-06-12T06:41:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:13
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 13
+
+2020-06-12T06:42:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:13
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 13
+
+2020-06-12T06:42:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:13
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 13
+
+2020-06-12T06:42:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:149
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 149
+
+2020-06-12T06:45:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_url() in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php:4463
+Stack trace:
+#0 C:\xampp\htdocs\toy shop\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\toy shop\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\toy shop\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 4463
+
+2020-06-12T07:48:38+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 326
+
+2020-06-12T07:48:59+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 326
+
+2020-06-12T07:52:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 326
+
+2020-06-12T07:53:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 292
+
+2020-06-12T07:55:51+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 148
+
+2020-06-12T07:56:27+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 148
+
+2020-06-12T07:56:37+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 148
+
+2020-06-12T07:57:12+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 148
+
+2020-06-12T08:00:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\toy shop\wordpress\wp-includes\class-wp-hook.php on line 271
+
+2020-06-12T08:01:58+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 148
+
+2020-06-12T08:12:09+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xampp\htdocs\toy shop\wordpress\wp-content\themes\neve\custom.php on line 74
+
